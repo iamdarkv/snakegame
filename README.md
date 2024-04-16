@@ -1,1 +1,1 @@
-# snakegame.github.io
+https://iamdarkv.github.io/snakegame/
